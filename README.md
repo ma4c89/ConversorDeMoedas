@@ -1,17 +1,22 @@
-# 💱 Conversor de Moedas
+<p align="center">
+  <img src="https://em-content.zobj.net/source/skype/289/currency-exchange_1f4b1.png" alt="Ícone de Conversor de Moedas" width="100">
+</p>
 
-Este é um conversor de moedas moderno feito com HTML, CSS e JavaScript. Ele permite converter valores entre diferentes moedas e exibe um gráfico em tempo real com as taxas de câmbio, tudo em uma única página.
+<h1 align="center">💱 Conversor de Moedas</h1>
 
-## ✨ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- [ExchangeRate API](https://www.exchangerate-api.com/) para as taxas de câmbio
+Um conversor de moedas moderno e responsivo, com taxas atualizadas em tempo real por meio da API [ExchangeRate-API](https://www.exchangerate-api.com/). Desenvolvido com HTML, CSS e JavaScript.
 
-## 📦 Funcionalidades
+## 🚀 Funcionalidades
 
-- Conversão instantânea de moedas
-- Gráfico em tempo real com base nas taxas
-- Design moderno e responsivo
-- Animações e interações com JavaScript puro
+- Conversão entre as principais moedas (USD, EUR, BRL, GBP, JPY, CAD, AUD, CHF, CNY, ARS).
+- Interface moderna e responsiva.
+- Feedback visual com animação de carregamento.
+- Exibição da taxa de câmbio usada.
+- Mensagem de erro clara em caso de falha na API.
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura da aplicação.
+- **CSS3** – Estilização com layout responsivo e moderno.
+- **JavaScript** – Lógica de conversão e requisições para a API.
